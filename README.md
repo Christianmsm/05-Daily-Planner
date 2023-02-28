@@ -19,6 +19,7 @@ GitHub Repo:
 https://github.com/Christianmsm/05-Daily-Planner
 
 Deployed Site:
+https://christianmsm.github.io/05-Daily-Planner/
 
 
 Screenshot:
