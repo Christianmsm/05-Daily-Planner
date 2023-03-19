@@ -6,11 +6,13 @@ This project we were tasked with creating a daily planner application that the u
 
 How I went about completting this task was I worked in the HTML file to get the header element aligned in the center, then I created all of the div elements for the hours of 9am - 5pm.
 
-I then started working in the JavaScript file to display the current date on the header element, then worked on creating click evens for each of the buttons with the corresponding hours.
+I then started working in the JavaScript file to display the current date on the header element, then worked on creating click event for the save button.
 
 I then made sure the elements were saved to the localStorage after the button is clicked.
 
-I definitely ran into issues with displaying the correct color class if the hour was "past, present, or future." I will go back and figure out how to get this functioning properly.
+Once I had those completed I worked on the function to set the color of the time blocks current hour it was on and display if the other blocks were in the 'present' or in the 'future.'
+
+After my first submission of this challenge I then went back to polish it up and make it run properly using all of the resources I had gained since to make it a functional application.
 
 
 ## Links
